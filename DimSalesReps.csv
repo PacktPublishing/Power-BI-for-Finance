@@ -1,0 +1,17 @@
+ID,Name,Source,SalesTerritoryRegion,SalesTerritoryCountry,SalesTerritoryGroup,Organization,Organization ID,Payment Terms,Currency,Type,All,A.1| Sales Territory Country (3l code),NameID,SalesTerritoryCountryID,SalesTerritoryGroupID,OrganizationID_ENT,Type (ID)
+1,Jiang Stephen,User,AdventureWorks Cycle,United States,North America,Adventureworks Cycle,1,,USD,Demand,All,USA,9,3,1,,1
+2,Welcker Brian,User,North America Operations,Canada,North America,Adventureworks Cycle,1,,CAD,Demand,All,CAN,1,8,1,,1
+3,Blythe Michael,User,Northwest Division,United Kingdom,Europe,European Operations,5,,GBP,Demand,All,GBR,16,4,2,,1
+4,Mitchell Linda,User,Australia,Australia,Asia Pacific,Australia,2,,AUD,Demand,All,AUS,8,9,3,,1
+5,Carson Jillian,User,Germany,Germany,Europe,Germany,7,,EUR,Demand,All,DEU,14,6,2,,1
+6,Vargas Garrett,User,Pacific Operations,Japan,Asia,Pacific Operations,11,,YEN,Demand,All,JPN,3,5,4,,1
+7,Reiter Tsvi,User,Northwest Division,United States,North America,Adventureworks Cycle,1,,USD,Demand,All,USA,6,3,1,,1
+8,Ito Shu,User,Northwest Division,United States,North America,Adventureworks Cycle,1,,USD,Demand,All,USA,10,3,1,,1
+9,Campbell David,User,Northwest Division,United States,North America,Adventureworks Cycle,1,,USD,Demand,All,USA,15,3,1,,1
+10,Pak Jae,User,Northwest Division,United States,North America,Adventureworks Cycle,1,,USD,Demand,All,USA,7,3,1,,1
+11,Valdez Rachel,User,Northwest,United States,North America,Adventureworks Cycle,1,,USD,Demand,All,USA,4,3,1,,1
+12,China Port,User,Production,China,Asia,Adventureworks Cycle,,,,Supply,All,CHN,13,7,4,,2
+13,China Production,User,Production,China,Asia,Adventureworks Cycle,,,,Supply,All,CHN,12,7,4,,2
+14,German Assembly,User,Production,Germany,Asia,Adventureworks Cycle,,,,Supply,All,DEU,11,6,4,,2
+15,US Assembly,User,Production,USA,North America,Adventureworks Cycle,,,,Supply,All,,5,2,1,,2
+16,Vietnam Production,User,Production,Vietnam,North America,Adventureworks Cycle,,,,Supply,All,VIE,2,1,1,,2

@@ -1,0 +1,17 @@
+ID,Name,Source,ScenarioGroup,ScenarioGroupWeights,Variance,VarianceWeights,Is Locked
+2,Forecast,User,USA,90,Bud + Adjustment,5,FALSE
+3,Budget,User,Australia,1,Bud vs Fcst,5,TRUE
+5,Actual,User,Australia,77,Act,5,TRUE
+6,Variance,User,Canadian Division,0.5,Act,5,TRUE
+8,Adjustment,User,Australia,90,Bud + Adjustment,5,TRUE
+12,Covid19,User,AdventureWorks Cycle,4,Act,5,TRUE
+19,Rolling Forecast,User,USA,2,Act,5,FALSE
+20,Analysis,User,India,8,Bud,5,FALSE
+21,Budget Base,User,,1,,,FALSE
+22,Budget_Allocation,User,HQ,1,,,TRUE
+23,Consensus,User,,,,,FALSE
+24,Reforcast MGMT,User,,,,,FALSE
+28,ChatGPT,User,,,,,FALSE
+29,Reforecast0617,User,,,,,
+30,Reforecast 0620,User,,,,,
+31,Reforecast0917,User,,,,,

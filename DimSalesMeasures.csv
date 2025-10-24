@@ -1,0 +1,12 @@
+MeasuresID,MeasuresName,MeasuresSource,MeasuresMeasureGroup
+1,ExtendedAmount,User,NULL
+2,Freight,User,NULL
+3,OrderQuantity,User,NULL
+4,ProductStandardCost,User,NULL
+5,SalesAmount,User,NULL
+6,TaxAmt,User,NULL
+7,TotalProductCost,User,NULL
+8,UnitPrice,User,NULL
+9,Inventory Quantity,User,
+10,Calculated Sales,User,
+11,Capacity,User,
