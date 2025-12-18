@@ -22,7 +22,7 @@ Martin Kratky</p>
 </p>
 <details open> 
   <summary><h2>About the book</summary>
-<a href="https://www.packtpub.com/en-us/product/power-bi-for-finance-first-edition/9781837635016">
+<a href="https://www.packtpub.com/en-us/product/power-bi-for-finance-9781837631162">
 <img src="https://content.packt.com/B19413/cover_image_small.jpg" alt="Power BI for Finance, First Edition" height="256px" align="right">
 </a>
 
